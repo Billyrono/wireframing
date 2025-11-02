@@ -11,16 +11,7 @@ Wireframing plays a critical role in the design process because it:
 - **Improves user experience (UX):** Wireframes focus on usability, ensuring that navigation and content flow make sense to users.  
 - **Encourages collaboration:** Teams and stakeholders can discuss and refine the layout early on, avoiding confusion later.
 
-## Types of Wireframes
-1. **Low-Fidelity Wireframes:** Simple sketches or grayscale boxes that show layout and content placement.  
-2. **Mid-Fidelity Wireframes:** Include more detail and refined spacing to represent a closer structure to the final product.  
-3. **High-Fidelity Wireframes:** Digitally created with realistic spacing, typography, and sometimes basic interactivity.
-
-## Tools Commonly Used for Wireframing
-- Figma  
-- Adobe XD  
-- Sketch   
-- Miro  
+---
 
 ## Key Elements of a Wireframe
 
@@ -41,5 +32,48 @@ This focuses on where text, images, videos, and forms are positioned within the 
 ### 4. **Functionality**
 Functionality elements represent interactive components like buttons, sliders, or search bars — often shown as boxes or icons in wireframes.  
 **Example:** A “Submit” button in a contact form shows where user interaction will occur and guides design discussions on how it should behave.
+
+---
+
+## 🧱 Types of Wireframes
+
+Wireframes vary in **fidelity** — meaning the level of detail and realism they include.  
+Here are the main types:
+
+### 🔹 Low-Fidelity Wireframes
+- **Purpose:** Quickly sketch ideas and test layout concepts before detailed design begins.  
+- **Appearance:** Basic shapes, grayscale colors, and placeholder text (e.g., “Lorem Ipsum”).  
+- **Tools Used:** Pen & paper, Balsamiq, or whiteboard sketches.  
+- **When Used:** In the early stages of design to brainstorm and discuss general structure.  
+- **Example Use Case:** Early homepage mockups showing where the header, hero image, and navigation might go — without worrying about visuals or typography.
+
+### 🔹 High-Fidelity Wireframes
+- **Purpose:** Present a more polished and realistic version of the design, often including real text, images, and spacing.  
+- **Appearance:** Detailed layouts with accurate typography, colors, and sometimes interactivity.  
+- **Tools Used:** Figma, Adobe XD, Sketch.  
+- **When Used:** In later stages of design, just before or during prototyping and development handoff.  
+- **Example Use Case:** A clickable app or website mockup used to gather final feedback from stakeholders.
+
+## 🖼️ Wireframe Example 
+
+[![Wireframe Example](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f&t=XM4ozxbOwM9br52u-0))
+
+### Type: **High-Fidelity Wireframe**
+
+### Description
+The attached link shows a **high-fidelity wireframe** created in Figma. It includes:
+
+- **Detailed page layouts** for multiple screens (Home/Listing Page, Detail Page, and Checkout).  
+- **Real images, typography, and spacing**, making it visually close to a final UI.  
+- **Functional flow representation** — users can visually trace how one page connects to the next.  
+- **Organized design boards** labeled by page type, typical of advanced prototyping.
+
+### When Used
+This type of wireframe is typically used **toward the end of the design phase**, to:
+- Demonstrate visual hierarchy and usability.
+- Prepare for stakeholder review or developer handoff.
+- Create interactive prototypes for usability testing.
+
+---
 
 > ✨ **Take home:** Wireframing bridges the gap between an idea and a functional design, ensuring a clear, user-focused structure before the visuals come to life.
