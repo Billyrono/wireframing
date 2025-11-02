@@ -22,4 +22,24 @@ Wireframing plays a critical role in the design process because it:
 - Sketch   
 - Miro  
 
+## Key Elements of a Wireframe
+
+Wireframes are built around several core elements that define the structure and functionality of a digital interface.
+
+### 1. **Layout Structure**
+The layout defines the overall organization of the page — how sections like headers, sidebars, and footers are arranged.  
+**Example:** Placing a navigation bar at the top ensures users can easily access other pages without scrolling.
+
+### 2. **Navigation**
+Navigation shows how users move through the site or app. This includes menus, links, buttons, and breadcrumbs.  
+**Example:** A sidebar with icons and labels helps users understand where they are and where they can go next, improving usability.
+
+### 3. **Content Placement**
+This focuses on where text, images, videos, and forms are positioned within the layout.  
+**Example:** Putting a “Sign Up” form above the fold (visible without scrolling) increases user engagement and conversion rates.
+
+### 4. **Functionality**
+Functionality elements represent interactive components like buttons, sliders, or search bars — often shown as boxes or icons in wireframes.  
+**Example:** A “Submit” button in a contact form shows where user interaction will occur and guides design discussions on how it should behave.
+
 > ✨ **Take home:** Wireframing bridges the gap between an idea and a functional design, ensuring a clear, user-focused structure before the visuals come to life.
