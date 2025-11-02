@@ -35,7 +35,7 @@ Functionality elements represent interactive components like buttons, sliders, o
 
 ---
 
-## 🧱 Types of Wireframes
+## Types of Wireframes
 
 Wireframes vary in **fidelity** — meaning the level of detail and realism they include.  
 Here are the main types:
@@ -54,9 +54,9 @@ Here are the main types:
 - **When Used:** In later stages of design, just before or during prototyping and development handoff.  
 - **Example Use Case:** A clickable app or website mockup used to gather final feedback from stakeholders.
 
-## 🖼️ Wireframe Example 
+## Wireframe Example 
 
-[![Wireframe Example](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f&t=XM4ozxbOwM9br52u-0))
+[Wireframe Example](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f&t=XM4ozxbOwM9br52u-0)
 
 ### Type: **High-Fidelity Wireframe**
 
@@ -73,6 +73,31 @@ This type of wireframe is typically used **toward the end of the design phase**,
 - Demonstrate visual hierarchy and usability.
 - Prepare for stakeholder review or developer handoff.
 - Create interactive prototypes for usability testing.
+
+---
+
+## 🛠️ Popular Wireframing Tools
+
+| Tool | Description |
+|------|--------------|
+| **Figma** | Cloud-based collaborative design tool known for its simplicity, real-time collaboration, and powerful prototyping features. |
+| **Adobe XD** | Offers vector-based design tools and interactive prototyping capabilities. |
+| **Sketch** | macOS-exclusive tool focused on UI/UX design with an extensive plugin ecosystem. |
+| **Miro** | Ideal for collaborative whiteboarding and early layout planning. |
+
+## ⭐ Recommended Tool: **Figma**
+
+**Figma** is a highly versatile and user-friendly wireframing and prototyping tool.
+
+### 🧠 Key Features
+- Real-time collaboration  
+- Cloud-based workspace  
+- Reusable design components  
+- Interactive prototyping  
+- Built-in commenting and version control  
+
+### 💡 Why It’s Useful for Wireframing
+Figma combines simplicity with powerful design capabilities, allowing teams to sketch low-fidelity layouts and refine them into fully interactive, high-fidelity prototypes — all within the same platform.
 
 ---
 
