@@ -22,6 +22,4 @@ Wireframing plays a critical role in the design process because it:
 - Sketch   
 - Miro  
 
----
-
 > ✨ **Take home:** Wireframing bridges the gap between an idea and a functional design, ensuring a clear, user-focused structure before the visuals come to life.
